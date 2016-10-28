@@ -1,0 +1,13 @@
+・練習サイト CheckIo
+https://checkio.org/
+※githubアカウントで登録可能
+
+最初はELEMENTARYから初めてください。
+
+
+・winへの開発環境構築
+Python Django入門 (2) Win編
+http://qiita.com/kaki_k/items/1fff7fefcf26dc4b69bci
+
+他のPython Django入門 (1)~も参考になるかも、
+ただ記事が2014年で古いので情報が古くなっている可能性もあります。
